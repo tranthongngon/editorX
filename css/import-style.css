@@ -1,0 +1,19 @@
+@import url("ttn-style.css");
+@import url("module/header.css");
+@import url("module/footer.css");
+
+@import url("module/heading-title.css");
+@import url("module/ttn-featured-module-1.css");
+
+
+@import url("module/ttn-featured-module-2.css");
+@import url("module/ttn-featured-module-3.css");
+@import url("module/ttn-featured-module-4.css");
+@import url("module/ttn-featured-module-5.css");
+@import url("module/ttn-featured-module-6.css");
+
+@import url('module/ttn-posts-listing--list-1-no-sidebar.css');
+@import url('module/ttn-posts-listing--grid-1-has-sidebar.css');
+@import url('module/ttn-posts-listing--list-1-has-sidebar.css');
+@import url('module/ttn-posts-listing--list-2-has-sidebar.css');
+@import url("single.css");

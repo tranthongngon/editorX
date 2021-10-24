@@ -1,0 +1,8 @@
+@media (min-width: 1200px) {
+    .ttn-posts-listing--list-1-has-sidebar .post--overlay-special .post__text {
+        min-height: 420px;
+    }
+}
+.ttn-posts-listing--list-1-has-sidebar .post--overlay-special .post__title {
+    max-width: 650px;
+}

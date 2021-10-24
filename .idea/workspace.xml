@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5544717a-7ba3-442a-9396-cd0bf20c2c46" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1tpO7xYIo8e4j48ngy90D9dXm2x" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Traning\editor\css" />
+      <recent name="C:\xampp\htdocs\HTML\infini\css" />
+      <recent name="C:\xampp\htdocs\HTML\infini\css\single" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Traning\editor" />
+      <recent name="C:\xampp\htdocs\Traning\editor\module" />
+      <recent name="C:\xampp\htdocs\Traning\editor\css\module" />
+      <recent name="C:\xampp\htdocs\HTML\atoz\js" />
+      <recent name="C:\xampp\htdocs\HTML\atoz\css\module" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5544717a-7ba3-442a-9396-cd0bf20c2c46" name="Default Changelist" comment="" />
+      <created>1623462400821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623462400821</updated>
+      <workItem from="1623462402055" duration="35372000" />
+      <workItem from="1623548027967" duration="29898000" />
+      <workItem from="1623634801351" duration="9080000" />
+      <workItem from="1623731517198" duration="5060000" />
+      <workItem from="1623911929860" duration="14006000" />
+      <workItem from="1623980079254" duration="26111000" />
+      <workItem from="1624066442244" duration="643000" />
+      <workItem from="1624239509374" duration="3544000" />
+      <workItem from="1624844185384" duration="1626000" />
+      <workItem from="1625103388986" duration="20704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/scripts.js</url>
+          <line>1678</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
